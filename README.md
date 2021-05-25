@@ -1,16 +1,10 @@
 - 👋 Hi, I’m @SeanHostetter
 
-- 👀 I’m interested in 
-    -Computational physics
-    -machine learning
-    -graphics programming
+- 👀 I’m interested in Computational physics, machine learning, and graphics programming
     
-- 🌱 I’m currently learning 
-    -convolutional neural networks
-    -discrete signal analysis
+- 🌱 I’m currently learning convolutional neural networks and discrete signal analysis
     
-- 💞️ I’m looking to collaborate on 
-    -machine learning projects
+- 💞️ I’m looking to collaborate on machine learning projects
     
 - 📫 How to reach me 
     email: shostetter0@gmail.com
