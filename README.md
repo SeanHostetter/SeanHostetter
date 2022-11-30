@@ -8,8 +8,6 @@
     
 - 📫 How to reach me 
     email: shostetter0@gmail.com
-    linkedin: 
-    blog: 
 
 <!---
 SeanHostetter/SeanHostetter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
