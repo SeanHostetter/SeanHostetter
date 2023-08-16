@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeanHostetter
 
-- 👀 I’m interested in Computational physics, machine learning, and graphics programming
+- 👀 I’m interested in Computational physics, machine learning, and cryptography
     
 - 🌱 I’m currently learning convolutional neural networks and discrete signal analysis
     
